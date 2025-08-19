@@ -10,7 +10,8 @@ Table of Contents
 4. License
 
 
-1. About the Project
+1.About the Project
+
 Purpose:
 
 This project is a simplified, foundational application for an actuarial project. It demonstrates how to build a basic user interface, perform simple calculations, and manage data, all in a single file. Built With:
