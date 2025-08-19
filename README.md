@@ -9,10 +9,12 @@ Table of Contents
 3. How it Works
 4. License
 
+
 1. About the Project
+
 Purpose:
-This project is a simplified, foundational application for an actuarial project. It demonstrates how to build a basic user interface, perform simple calculations, and manage data, all in a single file.
-Built With:
+
+This project is a simplified, foundational application for an actuarial project. It demonstrates how to build a basic user interface, perform simple calculations, and manage data, all in a single file. Built With:
 
 a. HTML
 
@@ -23,7 +25,6 @@ c. Tailwind CSS (for styling)
 d. Firebase Firestore (for the database)
 
 2. Getting Started
-This is the most important section. You'll explain how someone can get the project up and running.
 
 a. Clone the repository
 git clone https://github.com/fsdecs/newbie-ai-coding-actuarial.git
@@ -32,7 +33,6 @@ b. Open the file
 Just open the index.html file in your web browser.
 
 3. How it Works
-You can use this section to explain the core features of your app.
 
 a. Actuarial Calculation: The app calculates the present value of a future amount based on an interest rate and the number of periods.
 
