@@ -3,10 +3,10 @@ Actuarial App Starter
 "Simple full-stack actuarial app with basic data pipelines and security features."
 
 Table of Contents
-1. About the Project
-2. Getting Started
-3. How it Works
-4. License
+- About the Project
+- Getting Started
+- How it Works
+- License
 
 
 1. About the Project
