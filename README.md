@@ -26,7 +26,7 @@ d. Firebase Firestore (for the database)
 2. Getting Started
 
 a. Clone the repository
-git clone https://github.com/fsdecs/newbie-ai-coding-actuarial.git
+git clone https://github.com/fsdecs000/newbie-ai-coding-actuarial.git
 
 b. Open the file
 Just open the index.html file in your web browser.
