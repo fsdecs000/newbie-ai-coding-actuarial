@@ -9,7 +9,6 @@ Table of Contents
 3. How it Works
 4. License
 
-
 1. About the Project
 
 Purpose:
