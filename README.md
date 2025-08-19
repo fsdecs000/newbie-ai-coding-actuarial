@@ -1,4 +1,3 @@
-Project Title
 Actuarial App Starter
 
 "Simple full-stack actuarial app with basic data pipelines and security features."
@@ -10,7 +9,7 @@ Table of Contents
 4. License
 
 
-1.About the Project
+1. About the Project
 
 Purpose:
 
